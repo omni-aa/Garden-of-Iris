@@ -504,6 +504,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+
+.idea/ 
+
 ### VisualStudio ###
 
 # User-specific files
